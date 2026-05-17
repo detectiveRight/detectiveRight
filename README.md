@@ -24,7 +24,7 @@
 
 ---
 
-### 📌 Projects
+### 📌  Featured Projects
 
 - 🔧 [hardest-project-ever](https://github.com/detectiveRight/hardest-project-ever) — A great project with a great future
 - 💻 [mimi-simple-pc-price-calculator](https://github.com/detectiveRight/mimi-simple-pc-price-calculator) — CLI tool to estimate your PC price using AI
