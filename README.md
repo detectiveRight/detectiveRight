@@ -31,7 +31,10 @@
 - 📚 [foss-banner](https://github.com/detectiveRight/foss-banner) — Animated ASCII art banners for FOSS lovers
    
 ---
-- mimi is a nice cat 🐱
+## 🐱 Special Thanks
+
+A special thanks to **mimi** — the legendary, the great, the gentle cat.
+
 
 ---
 
